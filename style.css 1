@@ -1,0 +1,42 @@
+/* código omitido */
+
+body {
+    background-color: rgb(255, 209, 236);
+    color: rgb(255, 255, 255);
+    .sofadi-one-regular {
+        font-family: "Sofadi One", system-ui;
+        font-weight: 400;
+        font-style: normal;
+      }
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 700px;
+      margin: 0;      
+}
+button { background-color: rgb(255, 147, 210);
+    color: white;
+    .sofadi-one-regular {
+        font-family: "Sofadi One", system-ui;
+        font-weight: 400;
+        font-style: normal;}}
+        .passo.ativo {
+            display:block;
+        }
+
+.passo {
+    exibição: nenhuma;
+}
+
+.passo.ativo {
+    exibir:bloco;
+}
+
+principal {
+    alinhamento de texto: centralizar;
+    largura máxima: 90%;
+}
+
+imagem {
+    largura máxima: 90%;
+}
